@@ -4,7 +4,7 @@ Welcome to my data analytics portfolio! This repository showcases my journey, sk
 
 ## 🚀 About Me
 
-I am a passionate Data Analyst with a strong foundation in Python (4+ years), Data Visualization (3+ years), Spreadsheets (3+ years), and SQL (1+ year).
+I am a passionate Data Analyst with a strong foundation in Python (3+ years), Data Visualization (1+ years), Spreadsheets (3+ years), and SQL (1+ year).
 
 **I specialize in:**
 
@@ -56,7 +56,7 @@ Here are some of the projects that demonstrate my skills:
 - Git & GitHub
 
 ## 📌 Live Portfolio
-(https://ike-icon.github.io/data_analyst_portfolio/)
+https://ike-icon.github.io/data_analyst_portfolio/
 
 ## 📂 How to View My Work
 - Explore each project folder for datasets, code, and visualizations
@@ -66,7 +66,7 @@ Here are some of the projects that demonstrate my skills:
 I am actively seeking opportunities as a Data Analyst (Remote or On-site) where I can contribute to data-driven decision-making while continuing to grow into an advanced analytics professional.
 
 ## 📫 Connect With Me
-- <a href="https://www.linkedin.com/in/isaac-asiedu-98522a211/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-- <a href="mailto:asieduisaac5775@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/isaac-asiedu-98522a211/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:asieduisaac5775@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" alt="Email Isaac">
 </a>
