@@ -96,7 +96,7 @@ header p {
 
 .ai-intro-tabs-container {
   display: flex;
-  height: 60px;
+  height: 50px;
   position: sticky;
   top: 0;
   z-index: 1000;
@@ -104,6 +104,7 @@ header p {
   box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15);
   border-bottom: 1px solid #ddd;
   position: sticky;
+  padding: 0 300px;
 }
 
 .ai-intro-tab {
@@ -185,12 +186,9 @@ header p {
 
 .about-text {
   flex: 1;
-  /* max-width: 720px; */
   margin: 5px auto;
   padding: 20px;
-  /* background: #ffffff; */
   border-radius: 12px;
-  /* box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08); */
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: #333;
   opacity: 0.8;
@@ -501,6 +499,10 @@ svg {
     grid-template-columns: 1fr 1fr;
   }
 
+    .ai-intro-tabs-container {
+  padding: 0 50px;
+}
+
   .skill-column:nth-child(2) {
     border-right: none;
   }
@@ -515,6 +517,10 @@ svg {
   header p {
     font-size: 0.9rem;
   }
+
+   .ai-intro-tabs-container {
+  padding: 0 20px;
+}
 
   .about-content {
     flex-direction: column;
@@ -557,6 +563,10 @@ svg {
   header p {
     font-size: 0.85rem;
   }
+
+  .ai-intro-tabs-container {
+  padding: 0 20px;
+}
 
   .container {
     padding: 0 10px;
